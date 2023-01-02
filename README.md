@@ -7,7 +7,8 @@ The goal of this challenge is to breakdown and simplify the steps of creating an
 # Rules
 
 
->**1:** During six days you'll take at least 15 min to work on a task assign to that day.
->**2:** When the 15 min end you have the choice to continue or to stop.
->**3:** **(keep in mind that)** at any day you're not allowed to finish the task of the previous ones.
+>**1:** You will spend at least 15 minutes each day for the next six days working on a task assigned to you.
+>**2:** When the 15 minutes are up, you have the choice to continue or to stop.
+>**3:**  **Remember that**  you are not permitted to complete the previous day's task on any given day.
 >**4:** You should commit your new changes daily.
+>**5:** If you decide to make changes to the task assigned for the day, you should commit them and give them the "commit name -- edited" attribute. 
