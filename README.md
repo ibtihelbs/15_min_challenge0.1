@@ -1,29 +1,13 @@
 
-# Welcome to Codewell! 👋
+# 15 min code challenge  👋
 
-Codewell's aim is to provide you with real-world design templates that you can use to practice your HTML and CSS projects. 
+This challenge is built on top of [Codewell - Unifeed page blog](https://www.codewell.cc/challenges/unifeed-blog-page--608d9d5c747bad001532bd7c).
+The goal of this challenge is to breakdown and simplify the steps of creating an **(HTML and CSS)** project and to share code on **Github** while keeping on track all the changes of that project.
 
-Free or paid, all templates are high quality and will make great portfolio pieces.
-
-### I've completed the challenge, now what?
-
-We recommend using one of these two websites to deploy your projects
-
-- [GitHub Pages](https://pages.github.com/)
-- [Netlify](https://www.netlify.com/)
-
-They're super easy to setup and you should have your website up and running in no time, just follow their instructions.
+# Rules
 
 
-### Submit your solution to Codewell
-
-Visit the relevant challenge on [Codewell](https://codewell.cc) and click on 'Submit Solution' right under the challenge.
-Enter all the title, Github repo URL, Live URL (Netlify or GH Pages), and tell the community what challenges you've faced.
-
-### Join our community on Slack
-
-If you want more real-time communication, you can visit our community on [Slack](https://join.slack.com/t/codewell-hq/shared_invite/zt-ni8c9g8h-gNYWrmqQ3Uh37dcLg9~LMQ). 
-
-
-### Fonts Used
-https://fonts.google.com/specimen/Manrope
+>**1:** During six days you'll take at least 15 min to work on a task assign to that day.
+>**2:** When the 15 min end you have the choice to continue or to stop.
+>**3:** **(keep in mind that)** at any day you're not allowed to finish the task of the previous ones.
+>**4:** You should commit your new changes daily.
