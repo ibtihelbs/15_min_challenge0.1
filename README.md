@@ -16,8 +16,8 @@ The goal of this challenge is to breakdown and simplify the steps of creating an
 # TASKS :
 
 
->**Day-1:**  [Project setup](https://ibtihelbs.github.io/unifeed/task_1.html/).\
->**Day-2:**  [Html](https://ibtihelbs.github.io/unifeed/tasks.html/).\
+>**Day-1:**  [Project setup](https://ibtihelbs.github.io/unifeed/task_1.html).\
+>**Day-2:**  [Html](https://ibtihelbs.github.io/unifeed/tasks.html).\
 >**Day-3:**  [CSS link](https://ibtihelbs.github.io/unifeed/task_1.html/).\
 >**Day-4:**  [CSS styling](https://ibtihelbs.github.io/unifeed/task_1.html/).\
 >**Day-5:**  [CSS layout](https://ibtihelbs.github.io/unifeed/task_1.html/).\
